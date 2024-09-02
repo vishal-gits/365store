@@ -1,0 +1,9 @@
+[submodule "365storeFrontEnd"]
+	path = 365storeFrontEnd
+	url = https://github.com/vishal-gits/365storeFrontEnd.git
+[submodule "365storeBackEnd"]
+	path = 365storeBackEnd
+	url = https://github.com/vishal-gits/365storeBackEnd.git
+[submodule "365storeMobileApp"]
+	path = 365storeMobileApp
+	url = https://github.com/vishal-gits/365storeMobileApp.git
